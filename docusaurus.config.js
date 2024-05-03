@@ -13,7 +13,11 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   favicon: 'img/favicon.ico',
   organizationName: 'VirtualHotBar', // Usually your GitHub org/user name.
   projectName: 'NetMount', // Usually your repo name.
-
+  headTags: [
+    {
+      tagName: 'script', attributes: { src: '/sdk.51.la/js-sdk-pro.min.js?id=KQdBh9bWzAxDECPa&ck=KQdBh9bWzAxDECPa', id: 'LA_COLLECT', charset: 'UTF-8' }
+    }
+  ],
   presets: [
     [
       '@docusaurus/preset-classic',
@@ -24,12 +28,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           // Please change this to your repo.
           editUrl: 'https://github.com/VirtualHotBar/NetMount-Docs/edit/main/',
         },
-/*         blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/facebook/docusaurus/edit/main/website/blog/',
-        }, */
+        /*         blog: {
+                  showReadingTime: true,
+                  // Please change this to your repo.
+                  editUrl:
+                    'https://github.com/facebook/docusaurus/edit/main/website/blog/',
+                }, */
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -47,23 +51,23 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           src: 'img/logo.svg',
         },
         items: [
-/*           {
-            type: 'doc',
-            docId: 'intro',
-            position: 'left',
-            label: 'Tutorial',
-          }, */
-         /*  {to: '/blog', label: 'Blog', position: 'left'}, */
-         {
-          href: 'https://www.netmount.cn/',
-          label: '首页',
-          position: 'right',
-        },
-        {
-          href:'/qq-group',
-          label: '官方Q群',
-          position: 'right',
-        },
+          /*           {
+                      type: 'doc',
+                      docId: 'intro',
+                      position: 'left',
+                      label: 'Tutorial',
+                    }, */
+          /*  {to: '/blog', label: 'Blog', position: 'left'}, */
+          {
+            href: 'https://www.netmount.cn/',
+            label: '首页',
+            position: 'right',
+          },
+          {
+            href: '/qq-group',
+            label: '官方Q群',
+            position: 'right',
+          },
           {
             href: 'https://github.com/VirtualHotBar/NetMount/',
             label: 'GitHub',
@@ -73,47 +77,47 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
       },
       footer: {
         style: 'light',
-/*         links: [
-          {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Tutorial',
-                to: '/docs/intro',
-              },
-            ],
-          },
-          {
-            title: 'Community',
-            items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
-              },
-            ],
-          },
-        ], */
+        /*         links: [
+                  {
+                    title: 'Docs',
+                    items: [
+                      {
+                        label: 'Tutorial',
+                        to: '/docs/intro',
+                      },
+                    ],
+                  },
+                  {
+                    title: 'Community',
+                    items: [
+                      {
+                        label: 'Stack Overflow',
+                        href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                      },
+                      {
+                        label: 'Discord',
+                        href: 'https://discordapp.com/invite/docusaurus',
+                      },
+                      {
+                        label: 'Twitter',
+                        href: 'https://twitter.com/docusaurus',
+                      },
+                    ],
+                  },
+                  {
+                    title: 'More',
+                    items: [
+                      {
+                        label: 'Blog',
+                        to: '/blog',
+                      },
+                      {
+                        label: 'GitHub',
+                        href: 'https://github.com/facebook/docusaurus',
+                      },
+                    ],
+                  },
+                ], */
         copyright: `Copyright © ${new Date().getFullYear()} VirtualHotBar. `,
       },
       prism: {
