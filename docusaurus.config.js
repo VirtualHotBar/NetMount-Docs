@@ -59,6 +59,11 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           label: '首页',
           position: 'right',
         },
+        {
+          href:'/qq-group',
+          label: '官方Q群',
+          position: 'right',
+        },
           {
             href: 'https://github.com/VirtualHotBar/NetMount/',
             label: 'GitHub',
