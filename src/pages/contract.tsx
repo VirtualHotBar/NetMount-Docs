@@ -15,6 +15,10 @@ export default function License() {
                     <div style={{ height: '40rem', overflowY: 'auto', textAlign: 'justify', margin: '0 auto' }}>
                         <p style={{ fontSize: '0.8rem', whiteSpace: 'pre-wrap' }}>
                             除官网访问统计外，NetMount不会收集任何用户信息，也不会以任何方式使用您的数据。
+                            <br /><br />
+                            用户在使用NetMount时，造成的任何损失，开发者概不负责。
+                            <br /><br />
+                            用户协议的最终解释权归VirtualHotBar所有。
                         </p>
                     </div>
                 </div>

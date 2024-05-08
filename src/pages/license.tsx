@@ -27,7 +27,7 @@ export default function License() {
                 <h1 style={{ color: '#6495ED' }}>许可证</h1>
                 <br /><br />
                 <Tabs>
-                    <TabItem value="NetMount" default style={{ }}>
+                    <TabItem value="NetMount" default >
                         <LicenseBox title='AGPL-3.0 License' url={'//cdn.jsdelivr.net/gh/VirtualHotBar/NetMount/LICENSE'} />
                     </TabItem>
                     <TabItem value="Rclone">
