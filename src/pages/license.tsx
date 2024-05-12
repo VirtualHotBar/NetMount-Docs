@@ -34,7 +34,7 @@ export default function License() {
                         <LicenseBox title='MIT License' url={'//cdn.jsdelivr.net/gh/rclone/rclone/COPYING'} />
                     </TabItem>
                     <TabItem value="Alist">
-                        <LicenseBox title='MIT License' url={'//cdn.jsdelivr.net/gh/alist-org/alist/LICENSE'} />
+                        <LicenseBox title='AGPL-3.0 License' url={'//cdn.jsdelivr.net/gh/alist-org/alist/LICENSE'} />
                     </TabItem>
                 </Tabs>
             </div>
