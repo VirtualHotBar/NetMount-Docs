@@ -7,7 +7,7 @@ import TabItem from '@theme/TabItem';
 
 export default function License() {
     return (
-        <Layout title='License'>
+        <Layout title='Contract'>
             <div style={{ marginTop: '5rem', marginBottom: '2rem', width: '100%', textAlign: 'center', alignItems: 'center', display: 'flex', flexDirection: 'column' }}>
                 <h1 style={{ color: '#6495ED' }}>用户协议</h1>
                 <br /><br />
