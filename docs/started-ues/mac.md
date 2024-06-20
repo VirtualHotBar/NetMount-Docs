@@ -5,6 +5,8 @@
 :::
 
 ## 安装
+**Intel处理器的Mac请暂时使用旧版[(1.0.4)](https://github.com/VirtualHotBar/NetMount/releases/tag/v1.0.4)**
+
 在[NetMount的官网下载页](https://www.netmount.cn/download)上下载Mac版安装包，下载后打开安装包将NetMount拖到程序文件夹中即可。
 
 ### 常见问题
