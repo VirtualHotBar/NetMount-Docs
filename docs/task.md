@@ -7,4 +7,5 @@ sidebar_position: 1
 
 ## 常见问题
 Q:为什么在任务存储选择里没有我本地的存储？
+
 A:本地存储用要像云存储存储一样手动添加，在存储管理界面添加“[本地存储](https://docs.netmount.cn/docs/storage-mgr/local)”
