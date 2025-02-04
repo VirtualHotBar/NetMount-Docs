@@ -16,9 +16,6 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   headTags: [
     {
       tagName: 'script', attributes: { src: '/js/main.js',  charset: 'UTF-8' }
-    },
-    {
-      tagName: 'script', attributes: { src: '//sdk.51.la/js-sdk-pro.min.js?id=KQdBh9bWzAxDECPa&ck=KQdBh9bWzAxDECPa', id: 'LA_COLLECT', charset: 'UTF-8' }
     }
   ],
   presets: [
