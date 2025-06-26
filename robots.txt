@@ -1,0 +1,8 @@
+User-Agent: *
+
+Allow: /
+Allow: /docs
+Allow: /docs/started
+Allow: *
+
+Sitemap: https://docs.netmount.cn/sitemap.xml
