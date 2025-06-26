@@ -34,9 +34,9 @@ export default function QQGroup() {
                 <h1 style={{ color: '#6495ED' }}>加入官方Q群</h1>
                 <div style={{ width: '100%', display: 'flex', flexDirection: 'row', justifyContent: 'center' }}>
                     <QQGroupCard link={'https://qm.qq.com/q/LoocEAXr6Q'} title={'NetMount官方交流1群'} number={'931722172'} available={false} maxNumber={500}></QQGroupCard>
-                    <QQGroupCard link={'https://qm.qq.com/q/6edXyt7lHU'} title={'NetMount官方交流2群'} number={'977915549'} available maxNumber={1000}></QQGroupCard>
+                    <QQGroupCard link={'https://qm.qq.com/q/6edXyt7lHU'} title={'NetMount官方交流2群'} number={'977915549'} available={false} maxNumber={1000}></QQGroupCard>
+                    <QQGroupCard link={'https://qm.qq.com/q/sXR9dhlAXu'} title={'NetMount官方交流3群'} number={'791307731'} available maxNumber={1000}></QQGroupCard>
                 </div>
-
             </div>
         </Layout>
     )
