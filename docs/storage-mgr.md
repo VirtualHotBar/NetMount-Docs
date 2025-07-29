@@ -11,4 +11,4 @@ sidebar_position: 1
 - 快捷对存储进行操作
 ## 界面
 
-![](https://p1.hotpe.top/i/p/1/663af47ab7374.png)
+![](https://sc.sysri.cn/i/p/1/663af47ab7374.png)
