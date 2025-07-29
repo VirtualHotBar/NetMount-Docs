@@ -16,4 +16,4 @@
 因为软件包未签名，需要使用以下命令取消签名检查：
 
 `xattr -r -d com.apple.quarantine /Applications/NetMount.app`
-<!-- ![](https://p1.hotpe.top/i/p/1/665b21e5e60ee.png) -->
+<!-- ![](https://sc.sysri.cn/i/p/1/665b21e5e60ee.png) -->
