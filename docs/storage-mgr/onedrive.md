@@ -23,7 +23,7 @@ import TabItem from '@theme/TabItem';
 
 #### 注册完成后，**复制`应用(客户端) ID`**，在后续步骤中会用到。
 
-![](https://p1.hotpe.top/i/p/1/663b09abcacd7.png)
+![](https://sc.sysri.cn/i/p/1/663b09abcacd7.png)
 
 ### 添加权限
 
@@ -31,7 +31,7 @@ import TabItem from '@theme/TabItem';
 - 选择搜索`File`相关权限
 - 选择`Files.ReadWrite.All`(推荐勾选:`Files.Read Files.ReadWrite Files.Read.All Files.ReadWrite.All Sites.Read.All offline_access`)
 - 点击`添加权限`按钮
-![](https://p1.hotpe.top/i/p/1/663b0fa720752.png)
+![](https://sc.sysri.cn/i/p/1/663b0fa720752.png)
 
 
 #### 点击`证书和密码`，点击`新建客户端密码`按钮:
@@ -41,14 +41,14 @@ import TabItem from '@theme/TabItem';
 
 添加完成后，**复制`值`**（客户端密码，仅显示一次），在后续步骤中会用到。
 
-![](https://p1.hotpe.top/i/p/1/663b0d835b735.png)
+![](https://sc.sysri.cn/i/p/1/663b0d835b735.png)
 
 ### 添加存储
 
 在NetMount中输入`应用(客户端) ID`和`客户端密码`，选择对应区域，点击`保存`按钮:
 - 可能会打开浏览器，请登录账号，并授权应用
 
-<!-- ![](https://p1.hotpe.top/i/p/1/663b1272c71d2.png) -->
+<!-- ![](https://sc.sysri.cn/i/p/1/663b1272c71d2.png) -->
 
 ## 参数
 详见:https://rclone.org/onedrive/#standard-options
