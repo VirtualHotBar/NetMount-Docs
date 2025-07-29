@@ -9,9 +9,9 @@ sidebar_position: 0
 ## 自启与自动挂载
 在设置页面，开启开机自启和启动时隐藏窗口即可。 
 
-![](https://p1.hotpe.top/i/p/1/66480c23f378a.png)
+![](https://sc.sysri.cn/i/p/1/66480c23f378a.png)
 
 
 自动挂载需要在添加挂载时勾选`软件启动时挂载`。
 
-![](https://p1.hotpe.top/i/p/1/66480cd6095ad.png)
+![](https://sc.sysri.cn/i/p/1/66480cd6095ad.png)
