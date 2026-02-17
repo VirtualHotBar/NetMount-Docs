@@ -28,13 +28,13 @@ export default function License() {
                 <br /><br />
                 <Tabs>
                     <TabItem value="NetMount" default >
-                        <LicenseBox title='AGPL-3.0 License' url={'//cdn.jsdelivr.net/gh/VirtualHotBar/NetMount/LICENSE'} />
+                        <LicenseBox title='AGPL-3.0 License' url={'//sc.sysri.cn/gh/VirtualHotBar/NetMount/LICENSE'} />
                     </TabItem>
                     <TabItem value="Rclone">
-                        <LicenseBox title='MIT License' url={'//cdn.jsdelivr.net/gh/rclone/rclone/COPYING'} />
+                        <LicenseBox title='MIT License' url={'//sc.sysri.cn/gh/rclone/rclone/COPYING'} />
                     </TabItem>
-                    <TabItem value="Alist">
-                        <LicenseBox title='AGPL-3.0 License' url={'//cdn.jsdelivr.net/gh/alist-org/alist/LICENSE'} />
+                    <TabItem value="OpenList">
+                        <LicenseBox title='AGPL-3.0 License' url={'//sc.sysri.cn/gh/OpenListTeam/OpenList/LICENSE'} />
                     </TabItem>
                 </Tabs>
             </div>
