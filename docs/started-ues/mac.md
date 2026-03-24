@@ -1,7 +1,7 @@
 # 在 Mac 上使用
 
 :::tip 提示
-macOS 挂载后端建议优先使用 `nfsmount`，其次 [fuse-t](https://www.fuse-t.org/)。仅在有兼容性需求时再使用 [macfuse](https://macfuse.github.io/)。
+macOS 需要安装依赖：[macfuse](https://macfuse.github.io/) 或 [fuse-t](https://www.fuse-t.org/) 。
 :::
 
 ## 安装
