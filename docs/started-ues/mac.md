@@ -1,11 +1,10 @@
 # 在 Mac 上使用
 
 :::tip 提示
-macOS 挂载后端建议优先使用 `nfsmount`，其次 `fuse-t`。仅在有兼容性需求时再使用 `macfuse`。
+macOS 挂载后端建议优先使用 `nfsmount`，其次 [fuse-t](https://www.fuse-t.org/)。仅在有兼容性需求时再使用 [macfuse](https://macfuse.github.io/)。
 :::
 
 ## 安装
-**Intel 处理器的 Mac 请暂时使用旧版[(1.0.4)](https://github.com/VirtualHotBar/NetMount/releases/tag/v1.0.4)**
 
 在[NetMount 的官网下载页](https://www.netmount.cn/download)下载 Mac 版安装包，下载后打开安装包将 NetMount 拖到应用程序文件夹即可。
 
